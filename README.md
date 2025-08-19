@@ -26,8 +26,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MayurJr&layout=compact&theme=tokyonight)  
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MayurJr&theme=tokyonight)  
-
 ---
 
 ### 🏆 Achievements  
